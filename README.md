@@ -1,4 +1,4 @@
-# Day 4: Recursive Find Shortest String
+## Day 4: Recursive Find Shortest String
 
 **Fork and then clone me!**
 
